@@ -1,0 +1,8 @@
+{
+    "navigation": [
+      {"name": "Home", "url": "index.php"},
+      {"name": "Blog", "url": "blog.php"},
+      {"name": "Services", "url": "services.php"},
+      {"name": "Contacts", "url": "contacts.php"}
+    ]
+  }

@@ -1,0 +1,20 @@
+//Blog Section
+
+.blog-section {
+    @extend %padding-default;
+
+    @include responsive(small-phone) {
+        padding: $padtop-3 0;
+    }
+}
+
+// Article Section
+
+.page-section {
+    @extend %padding-default;
+    @include responsive(small-phone) {
+        padding: $padtop-3 0;
+    }
+
+    
+}

@@ -1,0 +1,91 @@
+{
+    "footerNav": [
+      {
+        "title": "Account",
+        "links": [
+          {
+            "text": "Create account",
+            "url": "#",
+            "ariaLabel": "Create account"
+          },
+          {
+            "text": "Sign in",
+            "url": "#",
+            "ariaLabel": "Sign in"
+          },
+          {
+            "text": "iOS app",
+            "url": "#",
+            "ariaLabel": "iOS app"
+          },
+          {
+            "text": "Android app",
+            "url": "#",
+            "ariaLabel": "Android app"
+          }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          {
+            "text": "About me",
+            "url": "#",
+            "ariaLabel": "About me"
+          },
+          {
+            "text": "For Business",
+            "url": "#",
+            "ariaLabel": "For Business"
+          },
+          {
+            "text": "Our partners",
+            "url": "#",
+            "ariaLabel": "Our partners"
+          },
+          {
+            "text": "Careers",
+            "url": "#",
+            "ariaLabel": "Careers"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "links": [
+          {
+            "text": "Coding info",
+            "url": "#",
+            "ariaLabel": "Coding info"
+          },
+          {
+            "text": "Help center",
+            "url": "#",
+            "ariaLabel": "Help center"
+          },
+          {
+            "text": "Privacy & terms",
+            "url": "#",
+            "ariaLabel": "Privacy & terms"
+          }
+        ]
+      },
+      {
+        "title": "Contact us",
+        "contacts": {
+          "location": "San Francisco",
+          "telephone": {
+            "number": "415-201-6370",
+            "url": "tel:415-201-6370",
+            "ariaLabel": "telephone number"
+          },
+          "email": {
+            "address": "dobri_dobrev@yahoo.com",
+            "url": "mailto:dobri_dobrev@yahoo.com",
+            "ariaLabel": "email"
+          }
+        }
+      }
+    ]
+  }
+  

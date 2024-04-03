@@ -1,0 +1,38 @@
+// This is the base of my css that change on different screen sizes
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* removing borders on all buttons inputs */
+*:focus {
+    outline: none;
+}
+
+html {
+    font-size: 52.5%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+
+    @include responsive(big-desktop){
+        font-size: 62.5%;
+    }
+
+ 
+    @include responsive(phone){
+        font-size: 50%;
+    }
+
+}
+
+body {
+    overflow-x: hidden;
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: "Rubik", sans-serif;
+    color: $font-color;
+}

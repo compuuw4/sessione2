@@ -1,0 +1,347 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "HTML & CSS",
+            "description": "Explore the building blocks of web design with our deep dive into HTML & CSS. Learn how these technologies work together to create the internet's visual and structural aspects.",
+            "publishedDate": "2024-03-30",
+            "author": "Dobri Dobrev",
+            "tags": [
+                "HTML",
+                "CSS"
+            ],
+            
+            "imageUrl": "./img/blog/hamburger-menu.png",
+            "sections": [
+                {
+                    "heading": "Introduction to HTML",
+                    "content": "HTML is the skeleton of all web pages. It provides the basic structure, which is then enhanced and styled by CSS and JavaScript."
+                },
+                {
+                    "heading": "Basics of CSS",
+                    "content": "CSS is used to control the presentation, formatting, and layout of web pages, allowing developers to create visually engaging pages."
+                },
+                {
+                    "heading": "Integrating HTML with CSS",
+                    "content": "Combining HTML and CSS allows developers to structure content and define its appearance with styling options."
+                },
+                {
+                    "heading": "Responsive Design",
+                    "content": "Responsive web design ensures that websites look good on all devices, using a mix of flexible grids and layouts, images, and an intelligent use of CSS media queries."
+                },
+                {
+                    "heading": "Advanced Selectors",
+                    "content": "CSS offers a range of advanced selectors that allow developers to target elements in specific ways, enhancing the dynamism and interactivity of web pages."
+                },
+                {
+                    "heading": "Animation with CSS",
+                    "content": "CSS3 introduces animations, allowing for the creation of complex animations and transitions that enhance user interactions without relying on external libraries."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "PHP ",
+            "description": "PHP: The server-side scripting language essential for dynamic web content. Discover its power in web development, from managing databases to processing forms.",
+            "publishedDate": "2024-02-22",
+            "author": "John Wick",
+            "tags": [
+                "PHP"
+            ],
+            "imageUrl": "./img/blog/blog-back-end.jpg",
+            "sections": [
+                {
+                    "heading": "Getting Started with PHP",
+                    "content": "PHP is pivotal for dynamic content on the web, allowing for server-side scripting, database interactions, and more."
+                },
+                {
+                    "heading": "Variables and Data Types",
+                    "content": "Understanding variables and data types is fundamental in PHP, enabling developers to manipulate data effectively."
+                },
+                {
+                    "heading": "Control Structures",
+                    "content": "PHP supports a wide range of control structures, such as if statements, loops, and switch cases, facilitating complex decision-making processes."
+                },
+                {
+                    "heading": "Functions in PHP",
+                    "content": "Functions are reusable blocks of code that perform a specific task, making code more modular, readable, and maintainable."
+                },
+                {
+                    "heading": "Working with Databases",
+                    "content": "PHP can interact with databases, most notably MySQL, allowing for the creation, reading, updating, and deletion of database records."
+                },
+                {
+                    "heading": "PHP and Web Security",
+                    "content": "Security is paramount in web development, and PHP provides numerous features and best practices to safeguard web applications against vulnerabilities."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Laravel",
+            "description":"Laravel simplifies complex web development tasks with elegant syntax and powerful tools. It's the go-to PHP framework for developers seeking efficiency and sophistication.",
+            "publishedDate": "2023-01-30",
+            "author": "Jessica Simpson",
+            "tags": [
+                "Laravel"
+            ],
+            "imageUrl": "./img/blog/if-statement.jpg",
+            "sections": [
+                {
+                    "heading": "Why Laravel?",
+                    "content": "Laravel simplifies and speeds up the web development process with elegant syntax, powerful tools, and robust features."
+                },
+                {
+                    "heading": "Routing in Laravel",
+                    "content": "Laravel routing allows developers to direct application traffic, defining routes in an intuitive and flexible way."
+                },
+                {
+                    "heading": "MVC Architecture",
+                    "content": "Laravel is built on the MVC architecture, separating the logic of the application from the UI, promoting clean coding practices."
+                },
+                {
+                    "heading": "Eloquent ORM",
+                    "content": "Eloquent provides a beautiful, simple ActiveRecord implementation for working with your database and allows for defining relationships in an intuitive way."
+                },
+                {
+                    "heading": "Authentication and Authorization",
+                    "content": "Laravel makes implementing authentication and authorization straightforward, providing out-of-the-box configurations for many common scenarios."
+                },
+                {
+                    "heading": "Task Scheduling and Management",
+                    "content": "Task scheduling in Laravel allows developers to fluently and expressively define command schedule within the application itself."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Angular",
+            "description": "Angular: Revolutionizing the way we develop web applications. This comprehensive guide explores its robust features for creating dynamic, single-page applications.",
+            "publishedDate": "2023-03-31",
+            "author": "Antonio Banderas",
+            "tags": [
+                "Angular"
+            ],
+            "imageUrl": "./img/blog/if-statement.jpg",
+            "sections": [
+                {
+                    "heading": "Introduction to Angular",
+                    "content": "Angular is a platform that makes it easy to build applications with the web. It combines declarative templates, dependency injection, end-to-end tooling, and integrated best practices to solve development challenges."
+                },
+                {
+                    "heading": "Components and Modules",
+                    "content": "Components are the building blocks of Angular applications, and modules help organize an application into cohesive blocks of functionality."
+                },
+                {
+                    "heading": "Data Binding",
+                    "content": "Angular provides powerful data binding features, allowing for synchronization between the model and the view."
+                },
+                {
+                    "heading": "Services and Dependency Injection",
+                    "content": "Services are a great way to share information among classes that don't know each other. Dependency Injection (DI) is a way to supply a new instance of a class with the fully-formed dependencies it requires."
+                },
+                {
+                    "heading": "Routing",
+                    "content": "The Angular Router enables navigation from one view to the next as users perform application tasks."
+                },
+                {
+                    "heading": "Testing",
+                    "content": "Angular is built with testing in mind, and it provides a robust framework for ensuring your applications work as intended."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "TypeScript",
+            "description":"TypeScript brings static typing to JavaScript, enhancing code quality and maintainability. Learn how it empowers developers to write more robust and error-free code.",
+            "publishedDate": "2023-10-30",
+            "author": "Don Pippo",
+            "tags": [
+                "TypeScript"
+            ],
+            "imageUrl": "./img/blog/hamburger-menu.png",
+            "sections": [
+                {
+                    "heading": "Why TypeScript?",
+                    "content": "TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS."
+                },
+                {
+                    "heading": "Basic Types",
+                    "content": "Understand the basic types in TypeScript, like boolean, number, string, array, tuple, enum, any, void, null and undefined, and never."
+                },
+                {
+                    "heading": "Interfaces",
+                    "content": "TypeScript’s core principle is that type checking focuses on the shape that values have. An interface is a way to define a contract on a function with respect to the arguments and their types."
+                },
+                {
+                    "heading": "Classes and Inheritance",
+                    "content": "TypeScript supports modern JavaScript object-oriented programming features including classes and interfaces, offering a way to structure code in a more reusable and interconnected way."
+                },
+                {
+                    "heading": "Generics",
+                    "content": "Generics provide a way to make components work with any data type and not restrict to one data type. So, components can be called or used with a variety of data types."
+                },
+                {
+                    "heading": "Advanced Types and Techniques",
+                    "content": "Exploring advanced types like union types, intersection types, type guards, and type assertions in TypeScript enhances the flexibility and robustness of your code."
+                }
+            ]
+        },
+        
+        {
+            "id": 6,
+            "title": "Javascript",
+            "description": "Delve into JavaScript's core concepts, from basics to advanced topics. This article covers everything: variables, functions, control structures, event handling, async patterns.",
+            "publishedDate": "2024-03-28",
+            "author": "Bob Marley",
+            "tags": [
+                "Javascript"
+            ],
+            "imageUrl": "https://www.joberty.com/blog/content/images/size/w2640/2023/09/web-developers.png",
+            "sections": [
+                {
+                    "heading": "Variables and Data Types",
+                    "content": "Explanation of <code>var</code>, <code>let</code>, and <code>const</code>. Overview of data types: String, Number, Boolean, Object, Array, null, and undefined."
+                },
+                {
+                    "heading": "Functions",
+                    "content": "Introduction to function syntax, arrow functions, and function expressions. Reflection on JavaScript's growth and its future in web development."
+                },
+                {
+                    "heading": "Control Structures",
+                    "content": "Explanation of if-else, switch, loops (for, while), and error handling (try-catch). Discussion on scope and closures."
+                },
+                {
+                    "heading": "Event Handling",
+                    "content": "Overview of adding event listeners to DOM elements and responding to user actions."
+                },
+                {
+                    "heading": "Asynchronous JavaScript",
+                    "content": "Explanation of callbacks, promises, <code>async</code>/<code>await</code>, and handling asynchronous operations."
+                },
+                {
+                    "heading": "Modern JavaScript Features",
+                    "content": "ES6 and beyond: Template literals, destructuring, spread/rest operator, and new data structures (Map, Set)."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Javascript",
+            "description": "Delve into JavaScript's core concepts, from basics to advanced topics. This article covers everything: variables, functions, control structures, event handling, async patterns.",
+            "publishedDate": "2021-03-30",
+            "author": "Dobri Dobrev",
+            "tags": [
+                "Javascript"
+            ],
+            "imageUrl": "./img/blog/blog-back-end.jpg",
+            "sections": [
+                {
+                    "heading": "Variables and Data Types",
+                    "content": "Explanation of <code>var</code>, <code>let</code>, and <code>const</code>. Overview of data types: String, Number, Boolean, Object, Array, null, and undefined."
+                },
+                {
+                    "heading": "Functions",
+                    "content": "Introduction to function syntax, arrow functions, and function expressions. Reflection on JavaScript's growth and its future in web development."
+                },
+                {
+                    "heading": "Control Structures",
+                    "content": "Explanation of if-else, switch, loops (for, while), and error handling (try-catch). Discussion on scope and closures."
+                },
+                {
+                    "heading": "Event Handling",
+                    "content": "Overview of adding event listeners to DOM elements and responding to user actions."
+                },
+                {
+                    "heading": "Asynchronous JavaScript",
+                    "content": "Explanation of callbacks, promises, <code>async</code>/<code>await</code>, and handling asynchronous operations."
+                },
+                {
+                    "heading": "Modern JavaScript Features",
+                    "content": "ES6 and beyond: Template literals, destructuring, spread/rest operator, and new data structures (Map, Set)."
+                }
+            ]
+        },
+
+        {
+            "id": 8,
+            "title": "Laravel",
+            "description":"Laravel simplifies complex web development tasks with elegant syntax and powerful tools. It's the go-to PHP framework for developers seeking efficiency and sophistication.",
+            "publishedDate": "2023-12-31",
+            "author": " Andrea Celli",
+            "tags": [
+                "Laravel"
+            ],
+            "imageUrl": "./img/blog/if-statement.jpg",
+            "sections": [
+                {
+                    "heading": "Why Laravel?",
+                    "content": "Laravel simplifies and speeds up the web development process with elegant syntax, powerful tools, and robust features."
+                },
+                {
+                    "heading": "Routing in Laravel",
+                    "content": "Laravel routing allows developers to direct application traffic, defining routes in an intuitive and flexible way."
+                },
+                {
+                    "heading": "MVC Architecture",
+                    "content": "Laravel is built on the MVC architecture, separating the logic of the application from the UI, promoting clean coding practices."
+                },
+                {
+                    "heading": "Eloquent ORM",
+                    "content": "Eloquent provides a beautiful, simple ActiveRecord implementation for working with your database and allows for defining relationships in an intuitive way."
+                },
+                {
+                    "heading": "Authentication and Authorization",
+                    "content": "Laravel makes implementing authentication and authorization straightforward, providing out-of-the-box configurations for many common scenarios."
+                },
+                {
+                    "heading": "Task Scheduling and Management",
+                    "content": "Task scheduling in Laravel allows developers to fluently and expressively define command schedule within the application itself."
+                }
+            ]
+        },
+
+        {
+            "id": 9,
+            "title": "TypeScript",
+            "description":"TypeScript brings static typing to JavaScript, enhancing code quality and maintainability. Learn how it empowers developers to write more robust and error-free code.",
+            "publishedDate": "2012-12-12",
+            "author": "Enrico Sansavini",
+            "tags": [
+                "TypeScript"
+            ],
+            "imageUrl": "./img/blog/hamburger-menu.png",
+            "sections": [
+                {
+                    "heading": "Why TypeScript?",
+                    "content": "TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS."
+                },
+                {
+                    "heading": "Basic Types",
+                    "content": "Understand the basic types in TypeScript, like boolean, number, string, array, tuple, enum, any, void, null and undefined, and never."
+                },
+                {
+                    "heading": "Interfaces",
+                    "content": "TypeScript’s core principle is that type checking focuses on the shape that values have. An interface is a way to define a contract on a function with respect to the arguments and their types."
+                },
+                {
+                    "heading": "Classes and Inheritance",
+                    "content": "TypeScript supports modern JavaScript object-oriented programming features including classes and interfaces, offering a way to structure code in a more reusable and interconnected way."
+                },
+                {
+                    "heading": "Generics",
+                    "content": "Generics provide a way to make components work with any data type and not restrict to one data type. So, components can be called or used with a variety of data types."
+                },
+                {
+                    "heading": "Advanced Types and Techniques",
+                    "content": "Exploring advanced types like union types, intersection types, type guards, and type assertions in TypeScript enhances the flexibility and robustness of your code."
+                }
+            ]
+        }
+
+        
+    ]
+    
+    
+    
+}
