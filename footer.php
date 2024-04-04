@@ -13,20 +13,20 @@ $footerNavJson = json_decode(file_get_contents('./footer-navigation.json'), true
       </p>
       <!-- Social media icons -->
       <ul class="footer-social-icons">
-        <li>
-          <a href=""><img src="./img/social%20media/facebook.png" alt="facebook" id="footer-face"></a>
+      <li>
+          <a href=""><img src="./img/social%20media/facebook.png" alt="facebook" id="face" width="46" height="95"></a>
         </li>
         <li>
-          <a href=""><img src="./img/social%20media/twitter.png" alt="twitter"></a>
+          <a href=""><img src="./img/social%20media/twitter.png" alt="twitter" width="60" height="53"></a>
         </li>
         <li>
-          <a href=""><img src="./img/social%20media/youtube.png" alt="youtube"></a>
+          <a href=""><img src="./img/social%20media/youtube.png" alt="youtube" width="85" height="60"></a>
         </li>
         <li>
-          <a href=""><img src="./img/social%20media/google.png" alt="google"></a>
+          <a href=""><img src="./img/social%20media/google.png" alt="google" width="60" height="64"></a>
         </li>
         <li>
-          <a href=""><img src="./img/social%20media/rss.png" alt="rss"></a>
+          <a href=""><img src="./img/social%20media/rss.png" alt="rss" width="60" height="61"></a>
         </li>
       </ul>
       <a href="#">
