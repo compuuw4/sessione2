@@ -19,7 +19,7 @@ Greetings! I'm Dobri Dobrev , a passionate and innovative web developer
  with a knack for turning ideas into digital reality. 
  Let me take you on a journey through my professional story.";
 
- // include head
+// include head
 require("head.php");
 ?>
 
@@ -31,7 +31,7 @@ require("head.php");
       <h1 class="big-hero-title">
         Full stack web development every single day
       </h1>
-       <!-- Description  -->
+      <!-- Description  -->
       <p class="hero-description">
         Greetings! I'm <strong> Dobri Dobrev </strong>, a passionate and
         innovative web developer with a knack for turning ideas into
@@ -172,7 +172,7 @@ require("head.php");
   </div>
   <div class="container">
 
-  <!-- All Articles that i include in json file to generate dynamic data ,
+    <!-- All Articles that i include in json file to generate dynamic data ,
   because in this section i will show only the latest 6 articles sorted by date from new to old -->
 
     <div class="blog-articles">
@@ -223,7 +223,6 @@ require("head.php");
       <?php endforeach; ?>
     </div>
   </div>
-  </div>
 </section>
 </div>
 </section>
@@ -242,7 +241,7 @@ require("head.php");
         </p>
 
         <!-- Newsletter form only in the homepage -->
-        <form action="#" class="cta__form">
+        <form action="#" class="cta__form" method="post">
           <div>
             <label class="cta__label" for="full-name">Full Name</label>
             <input class="cta__input" id="full-name" type="text" placeholder="John Wick" required>
