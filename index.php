@@ -47,26 +47,26 @@ require("head.php");
       <p class="social-text btn--from-bottom">Follow me on Social media</p>
       <ul class="social-icons btn--from-bottom">
         <li>
-          <a href=""><img src="./img/social%20media/facebook.png" alt="facebook" id="face"></a>
+          <a href=""><img src="./img/social%20media/facebook.png" alt="facebook" id="face" width="46" height="95"></a>
         </li>
         <li>
-          <a href=""><img src="./img/social%20media/twitter.png" alt="twitter"></a>
+          <a href=""><img src="./img/social%20media/twitter.png" alt="twitter" width="60" height="53"></a>
         </li>
         <li>
-          <a href=""><img src="./img/social%20media/youtube.png" alt="youtube"></a>
+          <a href=""><img src="./img/social%20media/youtube.png" alt="youtube" width="85" height="60"></a>
         </li>
         <li>
-          <a href=""><img src="./img/social%20media/google.png" alt="google"></a>
+          <a href=""><img src="./img/social%20media/google.png" alt="google" width="60" height="64"></a>
         </li>
         <li>
-          <a href=""><img src="./img/social%20media/rss.png" alt="rss"></a>
+          <a href=""><img src="./img/social%20media/rss.png" alt="rss" width="60" height="61"></a>
         </li>
       </ul>
     </div>
     <!-- Big Hero Image -->
     <picture>
-      <source srcset="./img/web-developer-img.png" media="(max-width:37.5em)">
-      <img src="./img/web-developer-img.png" class="myphoto btn--from-right" alt="My Foto" title="Dobri Dobrev">
+      <!-- <source srcset="./img/web-developer-img.png" media="(max-width:37.5em)"> -->
+      <img src="./img/web-developer-img.png" class="myphoto btn--from-right" alt="My Foto" title="Dobri Dobrev" width="1200" height="1200">
     </picture>
   </div>
 </section>
@@ -112,8 +112,8 @@ require("head.php");
         </p>
       </div>
       <picture>
-        <source srcset="./img/works/back-end.png" media="(max-width:37.5em)">
-        <img src="./img/works/front-end.png" alt="Front-end development" class="work-images">
+        <!-- <source srcset="./img/works/back-end.png" media="(max-width:37.5em)"> -->
+        <img src="./img/works/front-end.png" alt="Front-end development" class="work-images" width="990" height="630">
       </picture>
 
     </div>
@@ -122,8 +122,8 @@ require("head.php");
 
     <div class="box-work">
       <picture>
-        <source srcset="./img/works/back-end.png" media="(max-width:37.5em)">
-        <img src="./img/works/back-end.png" alt="Back-end development" class="work-images">
+        <!-- <source srcset="./img/works/back-end.png" media="(max-width:37.5em)"> -->
+        <img src="./img/works/back-end.png" alt="Back-end development" class="work-images" width="990" height="609">
       </picture>
 
       <div class="front-end">
@@ -155,8 +155,8 @@ require("head.php");
         </p>
       </div>
       <picture class="picture">
-        <source srcset="./img/works/full-stack.png" media="(max-width:37.5em)">
-        <img src="./img/works/full-stack.png" alt="Fullstack development" class="work-images">
+        <!-- <source srcset="./img/works/full-stack.png" media="(max-width:37.5em)"> -->
+        <img src="./img/works/full-stack.png" alt="Fullstack development" class="work-images" width="920" height="613">
       </picture>
 
     </div>
