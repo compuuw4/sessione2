@@ -66,7 +66,7 @@ require("head.php");
     <!-- Big Hero Image -->
     <picture>
       <!-- <source srcset="./img/web-developer-img.png" media="(max-width:37.5em)"> -->
-      <img src="./img/web-developer-img.png" class="myphoto btn--from-right" alt="My Foto" title="Dobri Dobrev" width="1200" height="1200">
+      <img src="./img/web-developer-img.png" class="myphoto btn--from-right" alt="My Foto" title="Dobri Dobrev">
     </picture>
   </div>
 </section>
