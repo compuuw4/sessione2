@@ -28,8 +28,12 @@ $small-font:1.4rem;
         font-size: $big-font-4;
     }
 
-    @include responsive(desktop){
+    @include responsive(tablet-pro){
         font-size: $big-font;
+    }
+
+    @include responsive(780px){
+        font-size: $md-font-3;
     }
 
 }
