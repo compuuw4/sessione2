@@ -35,7 +35,7 @@
         {
             "id": 2,
             "title": "Responsive Web Development",
-            "description": "In a world where users access websites from various devices, responsiveness is key. Our developers create websites that adapt seamlessly to different screen sizes, providing an optimal user.",
+            "description": "In a world where users access websites from various devices, responsiveness is key. Our developers create websites that adapt seamlessly to different screen sizes.",
             "sections": [
                 {
                     "heading": "Principles of Responsive Design",
@@ -67,7 +67,7 @@
         {
             "id": 3,
             "title": "E-commerce Solutions",
-            "description": "Elevate your online sales with our comprehensive e-commerce development services. From intuitive product catalogs to secure payment gateways, we create robust online stores.",
+            "description": "Elevate your online sales with our comprehensive e-commerce development services. From intuitive product catalogs to secure payment gateways.",
             "sections": [
                 {
                     "heading": "Building Your Online Store",

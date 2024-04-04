@@ -11,7 +11,7 @@
                 "CSS"
             ],
             
-            "imageUrl": "./img/blog/hamburger-menu.png",
+            "imageUrl": "./img/blog/hamburger-menu.jpg",
             "sections": [
                 {
                     "heading": "Introduction to HTML",
@@ -159,7 +159,7 @@
             "tags": [
                 "TypeScript"
             ],
-            "imageUrl": "./img/blog/hamburger-menu.png",
+            "imageUrl": "./img/blog/hamburger-menu.jpg",
             "sections": [
                 {
                     "heading": "Why TypeScript?",
@@ -197,7 +197,7 @@
             "tags": [
                 "Javascript"
             ],
-            "imageUrl": "https://www.joberty.com/blog/content/images/size/w2640/2023/09/web-developers.png",
+            "imageUrl": "./img/blog/javascript.jpg",
             "sections": [
                 {
                     "heading": "Variables and Data Types",
@@ -310,7 +310,7 @@
             "tags": [
                 "TypeScript"
             ],
-            "imageUrl": "./img/blog/hamburger-menu.png",
+            "imageUrl": "./img/blog/hamburger-menu.jpg",
             "sections": [
                 {
                     "heading": "Why TypeScript?",
