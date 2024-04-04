@@ -1,6 +1,8 @@
 <?php
 $footerNavJson = json_decode(file_get_contents('./footer-navigation.json'), true); //load data form json file
 ?>
+
+</main>
 <!-- My footer -->
 <footer class="footer">
   <div class="container footer-grid">
@@ -58,7 +60,6 @@ $footerNavJson = json_decode(file_get_contents('./footer-navigation.json'), true
       <?php endif; ?>
     <?php endforeach; ?>
   </div>
-  </main>
 </footer>
 </body>
 

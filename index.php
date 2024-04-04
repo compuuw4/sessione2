@@ -224,8 +224,6 @@ require("head.php");
     </div>
   </div>
 </section>
-</div>
-</section>
 
 <!-- Subscribe CTA Section -->
 <section class="subscribe-section" id="contacts">
