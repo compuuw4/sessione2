@@ -14,7 +14,7 @@ $footerNavJson = json_decode(file_get_contents('./footer-navigation.json'), true
       <!-- Social media icons -->
       <ul class="footer-social-icons">
       <li>
-          <a href=""><img src="./img/social%20media/facebook.png" alt="facebook" id="face"></a>
+          <a href=""><img src="./img/social%20media/facebook.png" alt="facebook" id="footer-face"></a>
         </li>
         <li>
           <a href=""><img src="./img/social%20media/twitter.png" alt="twitter" ></a>
