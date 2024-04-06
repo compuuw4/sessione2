@@ -71,7 +71,7 @@ require("main.php");
                     </div>
 
                 </div>
-                <img src="<?= $selectedArticle['imageUrl'] ?>" alt="Article Image" class="article__image">
+                <img src="<?= $selectedArticle['imageUrl'] ?>" alt="<?= $selectedArticle['title'] ?>" class="article__image">
 
                 <?php foreach ($selectedArticle['sections'] as $section) : ?>
                     <h2 class="article-heading"><?= $section['heading'] ?></h2>
