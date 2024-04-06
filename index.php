@@ -65,7 +65,7 @@ require("head.php");
     </div>
     <!-- Big Hero Image -->
     <picture>
-      <!-- <source srcset="./img/web-developer-img.png" media="(max-width:37.5em)"> -->
+      <source srcset="./img/web-developer-img.webp" type="image/webp">
       <img src="./img/web-developer-img.png" class="myphoto btn--from-right" alt="My Foto" title="Dobri Dobrev">
     </picture>
   </div>
@@ -263,7 +263,10 @@ require("head.php");
           <button class="cta__btn">Subscribe Now</button>
         </form>
       </div>
-      <img src="./img/Dobri-Dobrev.png" class="cta__img-box" alt="Developer Dobri Dobrev">
+      <picture>
+        <source srcset="./img/Dobri-Dobrev.webp" type="image/webp">
+        <img src="./img/Dobri-Dobrev.png" class="cta__img-box" alt="Developer Dobri Dobrev">
+      </picture>
 
     </div>
   </div>
