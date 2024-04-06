@@ -112,7 +112,7 @@ require("head.php");
         </p>
       </div>
       <picture>
-        <!-- <source srcset="./img/works/back-end.png" media="(max-width:37.5em)"> -->
+        <!-- <source srcset="./img/works/front-end.png" media="(max-width:37.5em)"> -->
         <img src="./img/works/front-end.png" alt="Front-end development" class="work-images">
       </picture>
 
