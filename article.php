@@ -49,13 +49,13 @@ require("main.php");
 
 ?>
 
-<section class="page-section">
+<div class="page-section">
 
     <div class="page-container">
         <div class="grid-page">
             <article class="article">
 
-            <!-- For now this part is only for the articles because i need of dynamic data
+                <!-- For now this part is only for the articles because i need of dynamic data
                 for the name of the article the date and the author -->
 
                 <div class="breadcrumb">
@@ -81,7 +81,7 @@ require("main.php");
             <!-- Sidebar -->
             <aside class="right-sidebar">
 
-                
+
                 <!-- Default Search widget -->
                 <div class="widget">
                     <input type="search" class="widget__search" placeholder="Search...">
@@ -155,10 +155,10 @@ require("main.php");
             </aside>
         </div>
     </div>
-</section>
+</div>
 
 <!-- Footer -->
 
-    <?php
-    require("footer.php");
-    ?>
+<?php
+require("footer.php");
+?>
